@@ -1,0 +1,18 @@
+A group of hospitals in Pennsylvania began delaying surgeries and turning away patients. 
+A Cadbury factory in Tasmania stopped churning out chocolates. The pharmaceutical giant
+Merck ceased manufacturing vaccines for human papillomavirus. Soon, seventeen terminals
+at ports across the globe, all owned by the world’s largest shipping firm, Maersk, found
+themselves paralyzed. Tens of thousands of eighteen-wheeler trucks carrying shipping 
+containers began to line up outside those ports’ gates. Massive ships arrived from 
+journeys across oceans, each carrying hundreds of thousands of tons of cargo, only to find
+that no one could unload them. Like victims of a global outbreak of some brain-eating
+bacteria, major components in the intertwined, automated systems of the world seemed to
+have spontaneously forgotten how to function. At the attack’s epicenter, in Ukraine, the 
+effects of the technological doomsday were more concentrated. ATMs and credit card payment
+systems inexplicably dropped off-line. Mass transit in the country’s capital of Kiev was
+crippled. Government agencies, airports, hospitals, the postal service, even scientists 
+monitoring radioactivity levels at the ruins of the Chernobyl nuclear power plant, all 
+watched helplessly as practically every computer in their networks was infected and wiped
+by a mysterious piece of malicious code. This is what cyberwar looks like: an invisible
+force capable of striking out from an unknown origin to sabotage, on a massive scale, 
+the technologies that underpin civilization.
