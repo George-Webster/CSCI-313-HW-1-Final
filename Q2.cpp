@@ -85,14 +85,11 @@ void loops(const int size) {
 
 void insert_Node(struct Node** head, int data) {
     struct Node* inserted_Node = new Node();    //Create new node to insert into Linked List 
-    if (*head == NULL) *head = inserted_Node; // For if the linked list is empty, makes the new node the head node
-    else {
-        struct Node* temp = *head;  //Initialize new node 'temp' with head node
-        inserted_Node->next = NULL;   //Inserted node points to nothing because there's no node after it
-        inserted_Node->data = data;   //Passes data into the inserted node
-        while (temp->next) temp = temp->next;  // temp traverses from node to node until it reaches the last one in the list, when temp->next == NULL.
-        temp->next = inserted_Node;  // Makes the last node point to the inserted node
-    }
+    struct Node* temp = *head;  //Initialize new node 'temp' with head node
+    inserted_Node->next = NULL;   //Inserted node points to nothing because there's no node after it
+    inserted_Node->data = data;   //Passes data into the inserted node
+    while (temp->next) temp = temp->next;  // temp traverses from node to node until it reaches the last one in the list, when temp->next == NULL.
+    temp->next = inserted_Node;  // Makes the last node point to the inserted node
 }
 
 
