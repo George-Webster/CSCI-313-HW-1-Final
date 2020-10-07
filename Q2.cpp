@@ -69,8 +69,8 @@ void loops(const int size) {
 
     //Linked Binary Search section
     struct Node* head = new Node();  //Declares linked list
-    head->data = rand();
-    for (int i = 0; i < size/10000; i++) insert_Node(&head, rand());
+    head->data = array[0];
+    for (int i = 1; i < size/10000; i++) insert_Node(&head, rand() + array[i - 1]);
 
     begin = high_resolution_clock::now();
     for (int i = 0; i < 10000; i++) bool srch = linked_Srch(head, target);
