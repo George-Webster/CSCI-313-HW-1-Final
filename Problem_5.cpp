@@ -123,7 +123,6 @@ int main() {
     // Declare a array of size (size is randomly generated).
     int array[size];
     cout << "Array size is: " << size << "\n\n";
-    // cout << "Array size is: " << size << endl;
     cout << "Unsorted array is: ";
     cout << "[ ";
     // Assign a random number for each position (from index 0 to size) of array. Will print the unsorted array with the intialized random numbers.
